@@ -1,3 +1,5 @@
 baseurl = "http://2001db8.github.io/"
 languageCode = "en-us"
 title = "blog.roesen.org"
+canonifyurls = true
+publishdir = ""
