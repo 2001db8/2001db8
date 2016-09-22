@@ -1,34 +1,10 @@
 +++
-date = "2016-09-22T09:55:01+02:00"
-draft = true
-title = "welcome"
+date = "2016-09-22T11:14:43+02:00"
+draft = false
+title = "I'm back. Again"
 
 +++
 
-# Test 1 2 3
+# I'm back. Again.
 
-This is a ```code``` example.
-
-
-And this is **another** big code:
-```
-λ hugo server --theme=blackburn --buildDrafts
-Started building site
-1 of 1 draft rendered
-0 future content
-1 pages created
-0 non-page files copied
-1 paginator pages created
-0 tags created
-0 categories created
-in 24 ms
-Watching for changes in d:\Users\drizzt\Documents\GitHub\2001db8.github.io\{data,content,layouts,static,themes}
-Serving pages from memory
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-```
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+I stopped blogging at [blog.netzsheriff.de](http://blog.netzsheriff.de) back in 2012 due to a lack of time, ideas and a certain uncertainty regarding the leagal situation which applies to blogging and publishing stuff here in germany. Well, I'm still uncertain but now a have more time and I might even have some ideas about what to write about. So without further ado behold my new blog. Again.
