@@ -16,8 +16,8 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  subtitle = "I'm like Batman. For computers."
+  brand = "Sidebar"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "2001db8-1"
   # CSS name for highlight.js
