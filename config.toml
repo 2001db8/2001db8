@@ -2,7 +2,7 @@ baseurl = "/"
 publishdir = ""
 languageCode = "en-us"
 
-title = "blog.roesen.org."
+title = "blog.roesen.org"
 author = "Jens Roesen"
 
 
@@ -17,7 +17,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "I'm like Batman. For computers."
-  brand = "Sidebar"
+  brand = ""
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "2001db8-1"
   # CSS name for highlight.js
