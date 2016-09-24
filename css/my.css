@@ -5,3 +5,7 @@ html {
 .header {
   font-family: "Segoe UI", "Raleway", Helvetica, Arial, sans-serif
 }
+
+.content {
+    max-width: 850px;
+}
