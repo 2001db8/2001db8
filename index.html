@@ -54,6 +54,25 @@
   
   
 
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "transparent",
+        "text": "#f1d600",
+        "border": "#f1d600"
+      }
+    },
+    "position": "top"
+  })});
+  </script>
+
 </head>
 
 
@@ -68,6 +87,8 @@
 <div id="menu">
 
   
+  <a class="pure-menu-heading brand" href="/">blog.roesen.org </a>
+
 
   <div class="pure-menu">
     <ul class="pure-menu-list">
@@ -222,7 +243,7 @@
 
 <div class="header">
   <h1>blog.roesen.org</h1>
-  <h2>I&#39;m like Batman. For computers.</h2>
+  <h2></h2>
 </div>
 
 <div class="content">
