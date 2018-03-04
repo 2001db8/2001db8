@@ -33,16 +33,3 @@ html {
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
 appears on the left side of the page.
 */
-
-#menu {
-  margin-left: 0px; /* "#menu" width - changedn from -150 in original */
-  width: 155px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  z-index: 1000; /* so the menu or its navicon stays above all content */
-  background: #191818;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-}
